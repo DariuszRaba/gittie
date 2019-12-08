@@ -3,7 +3,6 @@ def introduce():
 
 
 def add(a,b):
-    <<<<<<< Updated upstream
     return a+b
 
 
