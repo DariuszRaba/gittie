@@ -3,6 +3,7 @@ def introduce():
 
 
 def add(a,b):
+<<<<<<< Updated upstream
     return a+b
 
 
@@ -12,3 +13,9 @@ def joke():
 
 def shout():
     print("Give me beer!")
+=======
+    pass
+
+def joke():
+    print("It's a beautiful day")
+>>>>>>> Stashed changes
