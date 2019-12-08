@@ -3,7 +3,7 @@ def introduce():
 
 <<<<<<< HEAD
 def add(a,b):
-    pass
+    return a+b
 =======
 def joke():
     print("It's a beautiful day")
