@@ -8,3 +8,7 @@ def add(a,b):
 
 def joke():
     print("It's a beautiful day")
+
+
+def shout():
+    print("Give me beer!")
